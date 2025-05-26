@@ -1,0 +1,1 @@
+# FaveroStore2.0
