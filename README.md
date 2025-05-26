@@ -1,1 +1,1 @@
-# FaveroStore2.0
+# FaveroStore
